@@ -23,7 +23,7 @@ Tank War Game is an action-packed 2D battle game where players control a tank to
 - Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/tank-war-game.git
+git clone https://github.com/yourusername/Tank-Wars-Video-Game.git
 ```
 
 - Open the TankWarGame.pde file in Processing.
