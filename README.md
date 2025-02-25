@@ -20,14 +20,14 @@ Tank War Game is an action-packed 2D battle game where players control a tank to
 
 ## Installation
 1. Download and install [Processing](https://processing.org/download/).
-- Clone this repository:
+2. Clone this repository:
 
 ```sh
 git clone https://github.com/yourusername/Tank-Wars-Video-Game.git
 ```
 
-- Open the TankWarGame.pde file in Processing.
-- Run the game and start battling enemy tanks.
+3. Open the TankWarGame.pde file in Processing.
+4. Run the game and start battling enemy tanks.
 
 ## Future Improvements
 - Additional levels and maps.
